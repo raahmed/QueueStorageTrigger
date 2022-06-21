@@ -14,7 +14,7 @@ grpcio==1.14.2
 grpcio-tools==1.14.2
 gunicorn==19.6.0
 idna==2.7
-numpy==1.15.4
+numpy==1.22.0
 protobuf==3.6.1
 pycparser==2.19
 python-dateutil==2.7.5
